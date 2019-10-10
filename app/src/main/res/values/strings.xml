@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabbedPractice</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="envelope_name">ENVELOPE NAME</string>
+    <string name="balance_500_00">BALANCE: $500.00</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
